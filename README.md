@@ -6,8 +6,8 @@ Files
 ---
 | File Name  | Description |
 | ------------- | ------------- |
-| SharkAttacksRAW.xlsx | Spreadhseet describing the report associated with each recorded shark attack. This is the raw dataset before cleaning. |
-| SharkAttacksCleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the SharkAttacksRAW.xlxs file. |
+| shark_attacks_RAW.xlsx | Spreadhseet describing the report associated with each recorded shark attack. This is the raw dataset before cleaning. |
+| shark_attacks_cleaning.sql  | SQL script containing all steps involved to clean the dataset provided by the SharkAttacksRAW.xlxs file. |
 
 Software
 ---
